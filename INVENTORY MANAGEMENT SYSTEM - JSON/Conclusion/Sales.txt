@@ -1,0 +1,6 @@
+Lokesh Bottu,lokeshbottu1122@gmail.com,9381319611,1001,5 Star,2,10,20,Tue Jan 10 09:58:36 2023
+Yaswanth Reddy,banayaswanth@gmail.com,9014305066,1001,5 Star,5,10,50,Tue Jan 10 10:05:44 2023
+Yaswanth Reddy,banayaswanthreddy@gmail.com,9014305066,1005,Blueberry Cake,2,650,1300,Tue Jan 10 10:08:12 2023
+Saketh,saketh@gmail.com,7702269841,1003,Candy,4,2,8,Tue Jan 10 10:11:09 2023
+Bindu,bindu@gmail.com,9381318132,1004,Chocolate Cake,5,550,2750,Tue Jan 10 10:12:15 2023
+Loki,loki@gmail.com,9160562938,1003,Candy,0,2,0,Tue Jan 10 10:18:06 2023
